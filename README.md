@@ -1,10 +1,11 @@
-# WingIdentifier - Program Notes
+## WingIdentifier - Program Notes
 
-You can use the [editor on GitHub](https://github.com/bluebirdmoore/wingIdentifier/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Getting started
+Contact Randall Downer (rhdowner@colby.edu) to gain access to Colby's GPU processors. I developed this program on "Dain".
+```markdown
+ssh _user_@dain.cs.colby.edu
+```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
