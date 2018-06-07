@@ -1,4 +1,4 @@
-## WingIdentifier - Program Notes
+# WingIdentifier - Program Notes
 
 You can use the [editor on GitHub](https://github.com/bluebirdmoore/wingIdentifier/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
